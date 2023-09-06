@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js.**
 
-- 👯 I’m looking to collaborate on **fun web applications that help people, make them smile, or both.**
+- 👯 I’m looking to collaborate on **full-stack web applications.**
 
 - 👨‍💻 All of my projects are available at [https://philmach.netlify.app/](https://philmach.netlify.app/)
 
