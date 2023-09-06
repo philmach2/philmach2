@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Phil Mach</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate software engineer building full-stack websites and web applications.</h3>
 
-- 🔭 I’m currently working on **creative front-end solutions.**
+- 🔭 I’m currently working on **a web application for tipping personal trainers!**
 
 - 🌱 I’m currently learning **Node.js.**
 
-- 👯 I’m looking to collaborate on **fun web applications.**
+- 👯 I’m looking to collaborate on **fun web applications that help people, make them smile, or both.**
 
 - 👨‍💻 All of my projects are available at [https://philmach.netlify.app/](https://philmach.netlify.app/)
 
