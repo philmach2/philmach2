@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phil Mach</h1>
+<h1 align="center">👋 Hi, I'm Phil Mach</h1>
 <h3 align="center">A passionate software engineer building full-stack websites and web applications.</h3>
 
 - 🔭 I’m currently working on **a meal plan and grocery list application using Node.js, Express, and MongoDB.**
