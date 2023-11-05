@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about using MVC as an architectural paradigm.**
 
-- 👯 I’m looking to collaborate on **full-stack web applications that help people live healthier lives.**
+- 👯 I’m looking to collaborate on **full-stack web applications that help people engage in healthy habits.**
 
 - 👨‍💻 All of my projects are available at [https://philmach.netlify.app/](https://philmach.netlify.app/)
 
