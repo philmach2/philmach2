@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Phil Mach</h1>
 <h3 align="center">A passionate software engineer building full-stack websites and web applications.</h3>
 
-- 🔭 I’m currently working on **a web application for tipping personal trainers!**
+- 🔭 I’m currently working on **a meal plan and grocery list application using Node.js, Express, and MongoDB.**
 
-- 🌱 I’m currently learning **Node.js.**
+- 🌱 I’m currently learning **about using MVC as an architectural paradigm.**
 
-- 👯 I’m looking to collaborate on **full-stack web applications.**
+- 👯 I’m looking to collaborate on **full-stack web applications that help people live healthier lives.**
 
 - 👨‍💻 All of my projects are available at [https://philmach.netlify.app/](https://philmach.netlify.app/)
 
-- 💬 Ask me about **my latest inspiration.**
+- 💬 Ask me about **my favorite restaurant, library, or park in NYC.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
