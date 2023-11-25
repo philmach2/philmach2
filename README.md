@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **a journaling platform inspired by the philosopher Baruch Spinoza to help discover one's priorities.**
 
-- 🌱 I’m currently learning **about utilizing MVC as an architectural paradigm in my codebase.**
+- 🌱 I’m currently learning **React as well as utilizing MVC architecture in my codebase.**
 
 - 👯 I’m looking to collaborate on **full-stack products that make one of the following easier for people: finances, health, relationships.**
 
