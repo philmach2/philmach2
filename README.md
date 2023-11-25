@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Phil Mach</h1>
 <h3 align="center">A software engineer building full-stack websites and web applications.</h3>
 
-- 🔭 I’m currently working on **a meal plan and grocery list application using Node.js, Express, and MongoDB.**
+- 🔭 I’m working on **a journaling platform inspired by the philosopher Baruch Spinoza to help discover one's priorities.**
 
-- 🌱 I’m currently learning **about using MVC as an architectural paradigm.**
+- 🌱 I’m currently learning **about utilizing MVC as an architectural paradigm in my codebase.**
 
-- 👯 I’m looking to collaborate on **full-stack web applications that help people engage in healthy habits.**
+- 👯 I’m looking to collaborate on **full-stack products that make one of the following easier for people: finances, health, relationships.**
 
-- 👨‍💻 All of my projects are available at [https://philmach.netlify.app/](https://philmach.netlify.app/)
+- 👨‍💻 Check out some of the websites I've built [https://philmach.netlify.app/](https://philmach.netlify.app/)
 
 - 💬 Ask me about **my favorite restaurant, library, or park in NYC.**
 
