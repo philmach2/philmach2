@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **full-stack products that make one of the following easier for people: finances, health, relationships.**
 
-- 👨‍💻 Check out some of what I've built [https://philmach.netlify.app/](https://philmach.netlify.app/)
+- 👨‍💻 Check out some of what I've built: **[https://philmach.netlify.app/](https://philmach.netlify.app/)**
 
 - 💬 Ask me about **my favorite restaurant, library, or park in NYC.**
 
