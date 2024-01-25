@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **a journaling platform inspired by the philosopher Baruch Spinoza + a fitness CMS for all you athletes out there.**
 
-- 🌱 I’m learning how to build a CLI in **GO.**
+- 🌱 I’m learning how to build a **CLI in GO.**
 
 - 👯 I’m looking to collaborate on **full-stack products that make one of the following easier for people: finances, health, relationships.**
 
