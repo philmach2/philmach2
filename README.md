@@ -3,13 +3,13 @@
 
 - 🔭 I’m working on **a journaling platform inspired by the philosopher Baruch Spinoza + a fitness CMS for all you athletes out there.**
 
-- 🌱 I’m continuously improving my skills in **React** and am interested in working with **GO.**
+- 🌱 I’m learning how to build a CLI in **GO.**
 
 - 👯 I’m looking to collaborate on **full-stack products that make one of the following easier for people: finances, health, relationships.**
 
 - 👨‍💻 Check out some of what I've built: **[https://philmach.netlify.app/](https://philmach.netlify.app/)**
 
-- 💬 Ask me about **my favorite restaurant, library, or park in NYC.**
+- 💬 Ask me about **my favorite tranquil spots in NYC.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
