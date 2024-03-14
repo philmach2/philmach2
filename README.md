@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Phil Mach</h1>
 <h3 align="center">A software engineer building full-stack websites and web applications.</h3>
 
-- 🔭 I’m working on **a journaling platform inspired by the philosopher Baruch Spinoza + a fitness CMS to build and track workout programs.**
+- 🔭 I’m working on **a journaling platform inspired by the philosopher Baruch Spinoza.**
 
-- 🌱 I’m learning how to utilize **AI tools ethically.**
+- 🌱 I’m learning **React.**
 
 - 👯 I’m looking to collaborate on **full-stack products that make one of the following easier for people: finances, health, relationships.**
 
