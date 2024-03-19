@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **a journaling platform inspired by the philosopher Baruch Spinoza.**
 
-- 🌱 I’m learning **React.**
+- 🌱 I’m learning **NEXT.js**
 
 - 👯 I’m looking to collaborate on **full-stack products that make one of the following easier for people: finances, health, relationships.**
 
