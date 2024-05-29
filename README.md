@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hi, I'm Phil Mach</h1>
 <h3 align="center">A software engineer building full-stack websites and web applications.</h3>
 
-- 🔭 I’m working on **a journaling platform inspired by the philosopher Baruch Spinoza.**
-
-- 🌱 I’m learning **NEXT.js**
-
-- 👯 I’m looking to collaborate on **full-stack products that make one of the following easier for people: finances, health, relationships.**
+- 🔭 I’m working on **a CMS for self-managed co-op buildings.**
 
 - 👨‍💻 Check out some of what I've built: **[https://philmach.netlify.app/](https://philmach.netlify.app/)**
 
